@@ -1,4 +1,6 @@
-# NLP_Forum_Recomendation_Engine
+# NLP_Forum_Recommendation_Engine
+
+** Help Diabetes Users to navigate through the  <a href="https://forum.tudiabetes.org/"> TuDiabetes</a></b> forums.**<br> 
 
 
 <p align="center"><img src="BERT_Recommend.png"></p>
