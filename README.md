@@ -14,7 +14,11 @@
 6. Treatment
 7. Diabetes Technology
 
+## Model
 
+1. <a href="https://github.com/YasaminAbbaszadegan/NLP_Forum_Recomendation_Engine/blob/master/Classification:Recomendation%20Models/Basic_Classification_Models.ipynb"> Basic Classification Models including --> LR,SVM, RF, XGB, SGB with cross validation </a>
+2. <a href="https://github.com/YasaminAbbaszadegan/NLP_Forum_Recomendation_Engine/blob/master/Classification:Recomendation%20Models/Recomendation_Engine-.ipynb"> Recommendor System using Cosine Similariy </a>
+3.   <a href="https://github.com/YasaminAbbaszadegan/NLP_Forum_Recomendation_Engine/blob/master/Classification:Recomendation%20Models/Basic_BERT_Text_classification.ipynb"> Transformer Classificaiton Models including: BERT, RoBERT, DistilBERT, Xlnet </a>
 
 
 <p align="center"><img src="BERT_Recommend.png"></p>
