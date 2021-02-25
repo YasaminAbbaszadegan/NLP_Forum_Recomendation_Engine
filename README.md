@@ -1,4 +1,20 @@
 # NLP_Forum_Recomendation_Engine
+
+
+<p align="center"><img src="BERT_Recommend.png"></p>
+
+<p align="center"><img src="BERT_Recommend2.png"></p>
+
+<p align="side"><img src="Eval_BERT.png" width="150" height="100"></p>
+
+
+
+<p align="center"><img src="CV_Basic_Classification.png"></p>
+
+
+
+
+
 For some Unsuspected reason my .ipynb files cannot be displayed in my repo so please click on:
 
 Recomendation_Engine :  https://github.com/YasaminAbbaszadegan/level1_post_recommender_20/blob/md3/Yasamin_Abbaszadegan/Yasamin_Abbaszadegan_Recomendation_Engine_Module3.ipynb
