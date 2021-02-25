@@ -1,6 +1,20 @@
 # NLP_Forum_Recommendation_Engine
 
-** Help Diabetes Users to navigate through the  <a href="https://forum.tudiabetes.org/"> TuDiabetes</a></b> forums.**<br> 
+<br><b>** Help Diabetes Users to navigate through the  <a href="https://forum.tudiabetes.org/categories"> TuDiabetes</a></b> forums.**<br> 
+
+
+## Dataset
+
+<br><b> Scraped the forum using BeautifulSoup and Scrapy with a beakpoint of 5,000 for each category including:<br>  
+1. Social Clubs
+2. Type 1 and LADA
+3. Type2
+4. Diabetes and Pregnancy
+5. Food
+6. Treatment
+7. Diabetes Technology
+
+
 
 
 <p align="center"><img src="BERT_Recommend.png"></p>
